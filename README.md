@@ -73,7 +73,7 @@ Main high level tasks are given below -
 
 ## Investment and Cost
 
-* Man-hour required: 160 hrs
+* Man-hour required: 160 hrs / Month
 
  * Payment Schedule
 
@@ -91,9 +91,13 @@ Main high level tasks are given below -
 ## Acceptance Criteria
 After this evaluation, all deliverables for this phase will be presented to CENTUM for review.
 
-CENTUM or his representative will have Seven business days from the date of delivery of any document that is a deliverable to review it and request any changes. If CREAM does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
+* CENTUM or his representative will have Seven business days from the date of delivery of any document that is a deliverable to review it and request any changes. If CREAM does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
 
-If CREAM is notified by CENTUM, within the above time frame, of any changes required, CREAM will within two business days of such notification implement those changes as have been agreed between the parties.  A final copy of the document will then be submitted to CENTUM.
+* If CREAM is notified by CENTUM, within the above time frame, of any changes required, CREAM will within two business days of such notification implement those changes as have been agreed between the parties.  A final copy of the document will then be submitted to CENTUM.
+
+* CREAM can able to change resource anytime as required depending on the work.
+
+* CREAM resource will be working for 8 hours a week
 
 ## Assumptions
 * General
