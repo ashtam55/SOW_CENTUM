@@ -1,4 +1,3 @@
-# SOW_CENTUM
 # Statement of Work - Centum x Web Development
 
 A document prepared by 
